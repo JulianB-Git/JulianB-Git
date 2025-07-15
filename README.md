@@ -1,6 +1,6 @@
 ### Hi there 👋
 # 💫 About Me:
-🔭 I’m currently working on a fullstack social media app using React and Java Spring as a project to build my own portfolio website.<br>🌱 I’m currently learning SASS and React Query as well as exploring my hosting options.
+🔭 I'm currently exploring AI MCP servers and how I can use them to speed up my workflow.
 
 
 ## 🌐 Socials:
